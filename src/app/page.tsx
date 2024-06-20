@@ -1,3 +1,4 @@
+import PrivatePage from "./private/page";
 
 export default function Home() {
   return (
@@ -6,7 +7,7 @@ export default function Home() {
         <h1>How is the going</h1>
       </div>
 
-      
+      <PrivatePage/>
 
      
     </main>
